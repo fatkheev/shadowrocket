@@ -1,2 +1,2 @@
 # shadowrocket
-https://raw.githubusercontent.com/fatkheev/shadowrocket/main/default.conf
+https://raw.githubusercontent.com/fatkheev/shadowrocket/main/list.conf
